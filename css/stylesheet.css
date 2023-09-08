@@ -1,0 +1,12 @@
+body {
+    background: #263859;
+    font-family: 'Philosopher', sans-serif;
+    color: #f2eee5;
+    font-size: 105px;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
