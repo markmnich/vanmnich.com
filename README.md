@@ -3,12 +3,11 @@
 To build/rebuild this repository, run the following commands:
 
 ````
-mkdir Repositories/vanmnich.com
+git clone git@github.com:markmnich/vanmnich.com.git
 cd Repositories/vanmnich.com
 touch index.html
 mkdir css
 touch css/stylesheet.css
-git clone git@github.com:markmnich/vanmnich.com.git
 git add --all
 git commit -m "Initial commit"
 git push -u origin master
